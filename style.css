@@ -6,10 +6,11 @@
     border: 1px solid lightgray;
     border-radius: 14px;
     background-color:rgb(255, 255, 255);
+    text-align: center;
 }
 
 .logo-img{
-    width: 100%;
+    width: 80%;
 }
 
 .content {
@@ -24,6 +25,7 @@
     border-radius: 6px;
     margin-bottom: 12px;
     text-align: center;
+    font-weight: 700;
 }
 
 .continue{
@@ -35,3 +37,63 @@
     background-color: blue;
     color: white;
 }
+
+.information{
+    width: 270px;
+    padding: 16px 30px;
+    margin: 40px auto;
+    border: 1px solid lightgray;
+    border-radius: 14px;
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.company-img {
+    width: 15%;
+}
+
+.heading{
+    margin: 0;
+}
+
+.about {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+
+.form {
+    text-align: left;
+    font-size: 13px;
+}
+
+.title {
+    width: 100%;
+    margin-top: 8px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border: 1px solid blueviolet;
+}
+
+select {
+    width: 100%;
+    margin-top: 8px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    font-weight: 700;
+}
+
+.submit{
+    width: 100%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: none;
+    background-color: #72a2c2;
+    color: white;
+}
+
